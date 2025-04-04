@@ -1,2 +1,2 @@
 # AH_utils
-Utility scripts fir personal use across projects
+Utility scripts for personal use across projects
